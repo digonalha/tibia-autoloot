@@ -1,4 +1,4 @@
-# tibia_autoloot
+# Tibia Autoloot - Python 3.7.x
 autoloot: shift + right mouse click around character super fast!
 
 
