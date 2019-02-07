@@ -19,8 +19,7 @@ positions = [
     (803, 329)
 ]
 
-def press_key_fast():
-
+def pick_loot_around():
     original_position = mouse.position
 
     for i in positions:
@@ -34,4 +33,4 @@ def press_key_fast():
         
     mouse.position = original_position
 
-press_key_fast()
+pick_loot_around()
