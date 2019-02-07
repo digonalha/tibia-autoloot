@@ -24,7 +24,7 @@ To get the mouse positions, run the script _get_mouse_position.py_ (the script h
 
 > chmod +x autoloot.py 
 
-and use the 'Keyboard > Apps Shorcuts' to create a command shortcut. The command will be like that:
+and use the 'Keyboard > Apps Shorcuts' to create a command shortcut. The command will be like
 
 > /bin/bash -c "/path/to/file/autoloot.py" 
 
