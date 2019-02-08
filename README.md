@@ -16,7 +16,7 @@ or install by requirements.txt running
 For reference: https://pythonhosted.org/pynput/
 
 ## How to:
-To get the mouse positions, run the script [get_mouse_position.py]https://github.com/digonalha/get_mouse_position (the script have a 1sec cooldown, put the mouse on position and run. The script will print on shell the current mouse position) and replace in positions list at line #10.
+To get the mouse positions, run the script [get_mouse_position.py](https://github.com/digonalha/get_mouse_position) (the script have a 1sec cooldown, put the mouse on position and run. The script will print on shell the current mouse position) and replace in positions list at line #10.
 
 ![image](https://user-images.githubusercontent.com/21348986/52380561-67964980-2a55-11e9-90b0-e3406d279c67.png)
 
@@ -29,5 +29,3 @@ and use the 'Keyboard > Apps Shorcuts' to create a command shortcut. The command
 > /bin/bash -c "/path/to/file/autoloot.py" 
 
 and make the shortcut of your choice.
-
-
