@@ -2,7 +2,7 @@
 Simple script for autoloot around the character with only one click and super fast! 
 
 _Disclaim:
-All my scripts are made linux based. Im using Xubuntu 18.4, but probably they will work with Windows too. If you need some help, please contact me sending an issue. And hey, I will encourage code improvements too, feel free to send me a pull request anytime!_
+All my scripts are made linux based. Im using Xubuntu 18.4, but probably they will work with Windows too. If you need some help, please contact me sending an issue. And hey, I encourage code improvements too, feel free to send me a pull request anytime!_
 
 ## Requirements:
 To work, you only need install pynput lib. To install just run
