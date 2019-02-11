@@ -33,4 +33,5 @@ def pick_loot_around():
         
     mouse.position = original_position
 
-pick_loot_around()
+if (__name__ == "__main__"):
+    pick_loot_around()
